@@ -1,6 +1,6 @@
 # Dino_Unlevered_DCF
 
-This repository contains my Excel-based DCF valuation model for Dino Polska. I built it as an independent financial modelling project to practise company analysis, forecasting, valuation, and Excel model structuring.
+This repository contains my Excel-based DCF valuation model for Dino Polska.
 
 ---
 
