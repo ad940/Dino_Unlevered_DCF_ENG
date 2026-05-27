@@ -16,8 +16,8 @@ The main purpose of the project was not only to calculate a valuation, but also 
 
 | File | Description |
 |---|---|
-| `Dino_Unlevered_DCF_ENG.xlsx` | English version of the Excel valuation model |
-| `screenshots/` | Screenshots of the model output, dashboard, and sensitivity analysis |
+| `Dino_Unlevered_DCF_EN.xlsx` | English version of the Excel valuation model |
+| `screenshots/` | Screenshots of the model dashboard, assumptions, output and sensitivity analysis |
 
 ---
 
